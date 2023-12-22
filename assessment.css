@@ -1,0 +1,19 @@
+body{
+  background-color: #ead33b;
+  color:#fdffff;
+  width: 500px;
+  margin-right: auto;
+  margin-left: auto;
+}
+button{
+  padding: 5px 20px;
+  background-color: #beac31;
+  border-style: none;
+  color: #fdffff;
+}
+input{
+  height: 24px;
+}
+p{
+  font-family: "MS 明朝";
+}
